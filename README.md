@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Rakesh Sharma - [rs9800411@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/your-username/expense-tracker](https://github.com/your-username/expense-tracker)
+Project Link: [(https://rakesh-maker-wq.github.io/Expense-Tracker/)](https://github.com/your-username/expense-tracker)
